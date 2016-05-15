@@ -3,7 +3,7 @@
 ##正式的介绍
 ![1](https://github.com/code2333/photo/blob/master/1.gif?raw=true)
 
-－通过点击“热门榜单”加载.
+- 通过点击“热门榜单”加载.
 
 ![2](https://github.com/code2333/photo/blob/master/2.gif?raw=true)
 
