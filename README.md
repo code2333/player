@@ -1,5 +1,5 @@
 # 作业完成情况
-做了这么久，感觉自己止做好了热门榜单这一项。。。
+做了这么久，感觉自己只做好了热门榜单这一项。。。
 ##正式的介绍
 ![1](https://github.com/code2333/photo/blob/master/1.gif?raw=true)
 
