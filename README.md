@@ -8,7 +8,7 @@
 ![2](https://github.com/code2333/photo/blob/master/2.gif?raw=true)
 
 - 点击每个cell播放音乐
-- play在音乐开始时变味pause
+- play在音乐开始时变为pause
 - 点击peause歌曲暂停，并变为play
 - 点击stop歌曲结束，pause变为play，再次点击play不会播放音乐
 
